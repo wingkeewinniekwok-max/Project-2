@@ -17,7 +17,7 @@
 #### The dashboard shows that flight delays occur 40.5% of the time, with United Airlines being the most delay-prone carrier at 53.5% delayed flights. Although cancellations are far less frequent than delays, they are primarily caused by weather, which remains the dominant factor behind flight termination. Cancellations peak on Mondays, exceeding 2%—higher than any other weekday.
 #### Additional dashboard insights reveal temporal delay patterns, problem routes, and airport bottlenecks that further explain operational inefficiency. Together, these patterns highlight the need for improved scheduling discipline, weather-based risk planning, and targeted airline-specific performance intervention.
 
-#### include the screenshot dashboard
+![Dashboard Overview](https://github.com/wingkeewinniekwok-max/Project-2/blob/main/FlightDashboard)
 
 ### 4. Recommendations
 #### A. Operational Efficiency Improvements
