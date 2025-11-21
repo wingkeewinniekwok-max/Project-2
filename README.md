@@ -9,7 +9,7 @@
 
 ## 2. Data Structure Overview 
 #### The data model is structured as a classic star schema, with the flights table serving as the central fact table. It connects to three dimension tables—airlines, airports, and cancellation_codes—using clean one-to-many relationships.
-#### include screenshot here ---------------
+![Dashboard Overview](https://github.com/wingkeewinniekwok-max/Project-2/blob/main/DataStructure)
 #### Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. 
 
 ## 3. Executive Summary 
